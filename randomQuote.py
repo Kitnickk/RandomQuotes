@@ -14,4 +14,4 @@ quotes = [
 
 for i in quotes:
     print(random.choice(quotes))
-    time.sleep(4)
+    time.sleep(3)
